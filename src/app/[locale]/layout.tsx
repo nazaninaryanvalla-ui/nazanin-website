@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Chatbot from '@/components/Chatbot';
 import '../globals.css';
 
 export default async function LocaleLayout({
@@ -29,6 +30,7 @@ export default async function LocaleLayout({
           <Navbar />
           <main>{children}</main>
           <Footer />
+          <Chatbot />
         </NextIntlClientProvider>
       </body>
     </html>
