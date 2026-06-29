@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "bookConsultation": "Book Consultation"
+  },
+  "hero": {
+    "title": "Smarter business through AI",
+    "subtitle": "one step at a time.",
+    "description": "I help businesses in Sweden grow smarter with artificial intelligence — from strategy to automation.",
+    "cta": "Book a Consultation",
+    "learnMore": "Learn More"
+  },
+  "services": {
+    "title": "Services",
+    "consultation": {
+      "title": "AI Consultation",
+      "description": "One-on-one strategic sessions to help your business leverage AI effectively.",
+      "duration30": "30 minutes",
+      "duration60": "60 minutes",
+      "bookNow": "Book Now"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "AI Consultant based in Jönköping, Sweden",
+    "description": "Coming soon — bio and resume will be added here."
+  },
+  "footer": {
+    "tagline": "Smarter business through AI — one step at a time.",
+    "rights": "All rights reserved."
+  }
+}

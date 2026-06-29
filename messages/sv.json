@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "home": "Hem",
+    "about": "Om mig",
+    "services": "Tjänster",
+    "contact": "Kontakt",
+    "bookConsultation": "Boka konsultation"
+  },
+  "hero": {
+    "title": "Smartare affärer med AI",
+    "subtitle": "ett steg i taget.",
+    "description": "Jag hjälper företag i Sverige att växa smartare med artificiell intelligens — från strategi till automation.",
+    "cta": "Boka en konsultation",
+    "learnMore": "Läs mer"
+  },
+  "services": {
+    "title": "Tjänster",
+    "consultation": {
+      "title": "AI-konsultation",
+      "description": "En-till-en strategiska sessioner för att hjälpa ditt företag använda AI effektivt.",
+      "duration30": "30 minuter",
+      "duration60": "60 minuter",
+      "bookNow": "Boka nu"
+    }
+  },
+  "about": {
+    "title": "Om mig",
+    "subtitle": "AI-konsult baserad i Jönköping, Sverige",
+    "description": "Kommer snart — biografi och CV läggs till här."
+  },
+  "footer": {
+    "tagline": "Smartare affärer med AI — ett steg i taget.",
+    "rights": "Alla rättigheter förbehållna."
+  }
+}
